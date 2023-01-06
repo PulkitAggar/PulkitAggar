@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pulkit Aggarwal</h1>
 <h3 align="center">Just another Random developer, building Great Apps and Websites.</h3>
 
-- 🌱 I’m currently learning **Flutter payment gateway,DSA and Front End Development.**
+- 🌱 I’m a Flutter Developer currently project lead on MyCycleClinic App
 
 - 👨‍💻 All of my projects are available at [https://github.com/PulkitAggar](https://github.com/PulkitAggar)
 
