@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PulkitAggar](https://github.com/PulkitAggar)
 
-- 💬 Ask me about **DSA, Payment gateways in flutter**
+- 💬 Ask me about **DSA, Firebase and Bloc in Flutter**
 
 - 📫 How to reach me **devilmaestro123456789@gmail.com**
 
