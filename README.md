@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pulkit Aggarwal</h1>
 <h3 align="center">Data Enthusiast | Tech Explorer | Finance Aficionado</h3>
 
-- 🎓 **Final Year B.Tech (CS, Data Science) @ NSIT Delhi**
-- 🏢 **Intern @ ZS Associates** (Azure, Databricks, Scalable Databases)
+- 🎓 **B.Tech (CS, Data Science) @ NSIT Delhi**
+- 🏢 **Associate @ ZS Associates** (Azure, Databricks, Scalable Databases)
 - 📊 **Ex-Business Analyst Intern @ Jindal Stainless, Paytm Payments Bank**
 - 🏆 **CFA Level 1 Cleared**
 - 📖 **Research: Real-time Driver Behavior Classification using LSTM**
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/PulkitAggar)
 - 💬 Ask me about **Databricks, Azure, LSTMs, and Finance**
-- 📫 Reach me at **devilmaestro123456789@gmail.com**
+- 📫 Reach me at **pulkitaggarwal0123@gmail.com**
 - ⚡ Fun fact **Wannabe Chef 🍳 & Curious Investor 📈**
 
 <h3 align="left">Connect with me:</h3>
